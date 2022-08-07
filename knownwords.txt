@@ -1,0 +1,12 @@
++coordination
+#n. 协调（能力）;配合;
++derive
+#v. （使）起源于，来自;获得;
++ruthless
+#adj. 无情的，冷酷的;残忍的;狠;辣;
++solitary
+#adj. 独自的，独立的;单个的;唯一的;隐居的;#n. 独居者，隐士;单独禁闭;
++give rise to
+# 引起， 导致;造成;
++combustion
+#n. 燃烧，烧毁;氧化;骚动;
